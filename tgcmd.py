@@ -95,8 +95,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 textded = '''
 <b> Я дед инсайд </b>
@@ -160,8 +160,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 
 @app.on_message(filters.command("night", prefixes=".") & filters.me)
@@ -200,8 +200,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("random 1000", prefixes=".") & filters.me)
 def betalove(_, msg):
@@ -301,8 +301,8 @@ def betalove(_, msg):
         sleep(time)
         msg.edit(f"<b>я люблю когда волосатые мужики обмазываются маслом 🧈</b>")  # orange
         sleep(5)
-        msg.edit(f'<b> @starzedscript </b>')
-        msg.edit(f'<b>⭐ @starzedscript </b>')
+        msg.edit(f'<b> @starzedscripts </b>')
+        msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 
 @app.on_message(filters.command("jopa", prefixes=".") & filters.me)
@@ -341,8 +341,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("love", prefixes=".") & filters.me)
 def valentine(_, msg):
@@ -380,8 +380,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("zxc", prefixes=".") & filters.me)
 def valentine(_, msg):
@@ -419,8 +419,8 @@ def valentine(_, msg):
                 sleep(time/cool)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("ziga", prefixes=".") & filters.me)
 def valentine(_, msg):
@@ -458,8 +458,8 @@ def valentine(_, msg):
                 sleep(time)
             except:
                 pass
-    msg.edit(f'<b> @starzedscript </b>')
-    msg.edit(f'<b>⭐ @starzedscript </b>')
+    msg.edit(f'<b> @starzedscripts </b>')
+    msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("like", prefixes=".") & filters.me)
 def betaloves(_, msg):
@@ -694,7 +694,7 @@ def betaloves(_, msg):
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦🟦🟦🟦🟦🟦🟦''')
         sleep(5)
-        msg.edit(f'<b>⭐ @starzedscript </b>')
+        msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("dislike", prefixes=".") & filters.me)
 def betaloves(_, msg):
@@ -985,7 +985,7 @@ def betaloves(_, msg):
 🈲🈲🈲🈲⬜️🈲🈲🈲
 🈲🈲🈲🈲🈲🈲🈲🈲''')
         sleep(4)
-        msg.edit(f'<b>⭐ @starzedscript </b>')
+        msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("loves", prefixes=".") & filters.me)
 def betaloves(_, msg):
@@ -1119,7 +1119,7 @@ def betaloves(_, msg):
 ✨✨✨✨🧡✨✨✨✨
 ✨✨✨✨✨✨✨✨✨''')
         sleep(3)
-        msg.edit(f'<b>⭐ @starzedscript </b>')
+        msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 @app.on_message(filters.command("heart", prefixes=".") & filters.me)
 def betalove(_, msg):
@@ -1204,8 +1204,8 @@ def betalove(_, msg):
         sleep(time)
         msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🖤🖤🤍🖤🖤🤍🤍\n🤍🖤🖤🖤🖤🖤🖤🖤🤍\n🤍🤍🖤🖤🖤🖤🖤🤍🤍\n🤍🤍🤍🖤🖤🖤🤍🤍🤍\n🤍🤍🤍🤍🖤🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # black
         sleep(1)
-        msg.edit(f'<b> @starzedscript </b>')
-        msg.edit(f'<b>⭐ @starzedscript </b>')
+        msg.edit(f'<b> @starzedscripts </b>')
+        msg.edit(f'<b>⭐ @starzedscripts </b>')
 
 
 @app.on_message(filters.command("toxic", prefixes=".") & filters.me)
@@ -1391,7 +1391,7 @@ def valentine(app, message):
      ''')
     sleep(0.5)
     app.send_message(message.chat.id, f'''
-     <b>⭐️ @starzedscript</b>
+     <b>⭐️ @starzedscripts</b>
      ''')
 
 jopa = '''
@@ -1998,5 +1998,5 @@ ziga = '''
 
 
 
-end_message = '<b> ⭐ @starzedscript </b>'
+end_message = '<b> ⭐ @starzedscripts </b>'
 app.run()
