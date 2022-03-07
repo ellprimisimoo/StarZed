@@ -350,7 +350,7 @@ def betalove(_, msg):
     time = 0.6
     for i in range(1):
         msg.edit(f"<b>🔪 На тебя заказали убийство.</b>")  # red
-        sleep(time)
+        sleep(3)
         msg.edit(f"<b>👀 У тебя есть пару секунд чтобы спрятаться.</b>")  # orange
         sleep(2)
         msg.edit(f"<b>⏳ [ 5s ]</b>")  # orange
