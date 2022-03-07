@@ -18,8 +18,8 @@ else:
     os.system("clear")
 print('''   v0.8
       ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-      ┃       Made by Criblle       ┃
-      ┃  Telegram: @starzedscripts  ┃
+      ┃-------Made by Criblle-------┃
+      ┃--Telegram: @starzedscripts--┃
       ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ''')
