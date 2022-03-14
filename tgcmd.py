@@ -8,9 +8,6 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 import textwrap
 import os
-from pythonping import ping
-okda = ping('8.8.8.8', size=40, count=10)
-print("PING:" + str(okda.rtt_avg_ms))
 
 app = Client('admin', api_id=15897262, api_hash='90476d9c65a86b03837e1e249314cd75')
 
