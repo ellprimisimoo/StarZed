@@ -3,4 +3,4 @@ if os.sys.platform == "win32":
     os.system("cls")
 else:
     os.system("clear")
-os.system("python StarZed.cpython-39.pyc")
+os.system("python StarZed.pyc")
