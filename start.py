@@ -1,1 +1,1 @@
-import StarZed
+import starzed
