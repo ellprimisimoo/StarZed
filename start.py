@@ -1,1 +1,2 @@
-import starzed
+import os
+os.system("python starzed.pyc")
